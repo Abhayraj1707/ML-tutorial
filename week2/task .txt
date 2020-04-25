@@ -1,0 +1,43 @@
+Complete the following topics of this lecture for the first lecture series:
+>>https://www.coursera.org/learn/machine-learning
+Week 3 : Logistic Regression
+Week 3 : Regularization
+>>https://github.com/ZakiaSalod/The-Hundred-Page-Machine-Learning-Book/blob/master/Chapter5.pdf (Regularization from The Hundred Page Machine Learning Book)
+>>https://github.com/ZakiaSalod/The-Hundred-Page-Machine-Learning-Book/blob/master/Chapter3.pdf (Linear and Logistic Regression)
+
+Suggested Blogs:
+Logistic Regression:
+>>https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc 
+>>https://towardsdatascience.com/logistic-regression-explained-9ee73cede081 
+>>https://towardsdatascience.com/logistic-regression-b0af09cdb8ad 
+>>http://thegrandjanitor.com/2015/08/20/gradient-descent-for-logistic-regression/ (To better understand gradient descent in logistic regression).
+Watch:
+>>https://www.youtube.com/watch?v=yIYKR4sgzI8 
+>>https://www.youtube.com/watch?v=zAULhNrnuL4 
+
+Regularization:
+>>https://towardsdatascience.com/regularization-an-important-concept-in-machine-learning-5891628907ea  
+>>https://qr.ae/pNr2vg (check the answer by Prasoon Goyal, it will help with the basics).
+>>https://ml-cheatsheet.readthedocs.io/en/latest/regularization.html 
+    Watch:
+>>https://youtu.be/Q81RR3yKn30 
+>>https://youtu.be/NGf0voTMlcs (A regression model that uses L1 regularization technique is called Lasso Regression and model which uses L2 is called Ridge Regression.)
+
+
+AdvancedTopics (Optional but do give it a try):
+>>https://youtu.be/HZ4cvaztQEs
+>>http://cs229.stanford.edu/notes-spring2019/cs229-notes1.pdf
+>>http://cs229.stanford.edu/notes-spring2019/Gradient_Descent_Viz.pdf
+
+
+
+
+
+
+After completing the above course, go through these blogs to have some introduction in "Tensorflow":
+•	https://medium.com/analytics-vidhya/series-learning-tensorflow-the-easy-way-dcc5be834d74
+•	https://medium.com/analytics-vidhya/getting-started-with-tensorflow-the-easy-way-part-2-30e83830bd25
+•	https://medium.com/analytics-vidhya/getting-started-with-tensorflow-the-easy-way-part-3-9714a09af723
+•	https://www.guru99.com/tensor-tensorflow.html
+•	https://www.tensorflow.org/guide/variables
+•	https://www.tensorflow.org/guide/tensors

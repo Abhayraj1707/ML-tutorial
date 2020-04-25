@@ -1,0 +1,48 @@
+Week 0 :
+
+Before we jump into the
+main course of Machine Learning, it’s time for a little bit of warm-up. So most of the coding work related to machine learning is done on Python script. For that we have introduced week 0 which is solely dedicated to improve or get started with Python. We have provided a free course link here. 
+
+https://courses.cognitiveclass.ai/courses/course-v1:Cognitiveclass+PY0101EN+v2/courseware/76d637cbe8024e509dc445df847e6c3a/2d204ac4fa3143048a998da7e53702d7/
+
+A brief overview regarding the course :
+
+1.It's a 5 module course with video lectures, which can be downloaded by links they have provided.
+2. Short programming questions are there ,try to complete them and sumit them.
+[8:31 AM, 4/3/2020] +91 99498 26440: After finishing the course, go through this blog to get an overview of common Pyhton libraries used in ML:
+https://www.edureka.co/blog/python-libraries-for-data-science-and-machine-learning/
+
+Among the libraries introduced we'll focus on two of them in Week 0 i.e Numpy and Matplotlib.
+
+Follow the link to know more about numpy:
+http://cs231n.github.io/python-numpy-tutorial/#numpy
+
+For matplotlib you can go through follow these links: 
+https://matplotlib.org/3.1.0/tutorials/introductory/pyplot.html
+https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/ 
+https://towardsdatascience.com/matplotlib-tutorial-learn-basics-of-pythons-powerful-plotting-library-b5d1b8f67596
+
+
+
+
+After finishing the course, go through this blog to get an overview of common Pyhton libraries used in ML:
+https://www.edureka.co/blog/python-libraries-for-data-science-and-machine-learning/
+
+Among the libraries introduced we'll focus on two of them in Week 0 i.e Numpy and Matplotlib.
+
+Follow the link to know more about numpy:
+http://cs231n.github.io/python-numpy-tutorial/#numpy
+
+For matplotlib you can go through follow these links: 
+https://matplotlib.org/3.1.0/tutorials/introductory/pyplot.html
+https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/ 
+https://towardsdatascience.com/matplotlib-tutorial-learn-basics-of-pythons-powerful-plotting-library-b5d1b8f67596
+[8:31 AM, 4/3/2020] +91 99498 26440: After finshing the above tasks we'll give you a small assignment for the next weekend. Before that we need you all to prepare your PCs with required tools.
+So guys,we would recommend you to install Anaconda and use an IDE called Jupyter notebook in it to code in python.
+You can also go for just downloading Python but the above option will be wayyyy useful when you'll be doing projects.
+
+For windows users watch the video to install Anaconda, Python, Jupyter:
+https://youtu.be/5mDYijMfSzs
+
+For Ubuntu users watch the video to install Anaconda, Python, Jupyter:
+https://youtu.be/DY0DB_NwEu0
