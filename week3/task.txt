@@ -1,0 +1,25 @@
+Week 3:We are now getting into serious business, Neural Networks, the foundation for deep learning
+which is creating the hype all around, after going through this week question yourself.
+How is neural network learning?
+Complete the following topics of this lecture for the first lecture series:
+>>https://www.coursera.org/learn/machine-learning
+✓Neural Networks : Representation
+✓Neural Networks : Learning
+
+Suggested Blogs:
+>>
+https://towardsdatascience.com/introducing-deep-learning-and-neural-networks-deep-learning-for-rookies-1-bd68f9cf5883
+>>https://towardsdatascience.com/understanding-neural-networks-what-how-and-why-18ec703ebd31
+>>http://cs229.stanford.edu/notes-spring2019/cs229-notes-deep_learning.pdf
+>>http://cs229.stanford.edu/notes-spring2019/backprop.pdf
+>>https://www.youtube.com/watch?v=aircAruvnKk
+>>https://www.youtube.com/watch?v=IHZwWFHWa-w
+>>https://www.youtube.com/watch?v=Ilg3gGewQ5U
+>>https://www.youtube.com/watch?v=tIeHLnjs5U8
+Stanford lectures:(provides detailed explaination)
+>>https://youtu.be/i94OvYb6noo
+>>https://youtu.be/gYpoJMlgyXA
+Advanced Topics(Optional but do give it a try):
+
+>>https://youtu.be/oID20dIrV94
+>>https://youtu.be/a_v1DFjWYhY
