@@ -1,0 +1,22 @@
+Week 5:
+This week we will be wrapping up with the CNNs and will explore Decision tree and random forest, do try out reading the research paper attached below.
+
+Videos:
+https://youtu.be/gYpoJMlgyXA (CS 231n lect. 5)
+https://youtu.be/hd_KFJ5ktUc (CS 231n lect. 6)
+https://youtu.be/LxfUGhug-iQ (CS 231n lect. 7)
+
+Suggested Blogs:
+https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+https://colah.github.io/posts/2014-07-Conv-Nets-Modular/
+
+Advanced Topics:
+http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf
+
+https://youtu.be/GxZrEKZfW2o (CS 231n lect. 8)
+https://youtu.be/ta5fdaqDT3M (CS 231n lect. 9)
+
+Random forest regressor:
+https://medium.com/@Synced/how-random-forest-algorithm-works-in-machine-learning-3c0fe15b6674
+https://medium.com/machine-learning-101/chapter-5-random-forest-classifier-56dc7425c3e1
+https://towardsdatascience.com/random-forest-and-its-implementation-71824ced454f

@@ -1,0 +1,31 @@
+So as we are into Deep learning with neural networks .The next step is to add Convolution Layers. Prisma, Face app are possible with convolution deep learning architectures !!
+
+Basic intro :
+    • https://towardsdatascience.com/an-introduction-to-convolutional-neural-networks-eb0b60b58fd7 
+    • https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn
+
+Video lectures :
+    • https://www.youtube.com/watch?v=NfnWJUyUJYU
+    • https://www.youtube.com/watch?v=8inugqHkfvE&feature=youtu.be
+    • https://www.youtube.com/watch?v=qlLChbHhbg4&feature=youtu.be
+
+Blogs for deeper intuition : 
+    • https://colah.github.io/posts/2014-07-Understanding-Convolutions/ 
+    • https://colah.github.io/posts/2014-12-Groups-Convolution/
+
+
+
+Intro for Pytorch :
+Follow the links for getting started with pytorch 
+
+https://cs230.stanford.edu/blog/pytorch/
+
+https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/
+
+https://pytorch.org/tutorials/beginner/pytorch_with_examples.html
+
+https://towardsdatascience.com/building-efficient-custom-datasets-in-pytorch-2563b946fd9f
+
+The Best place of knowing pytorch :
+https://pytorch.org/docs/stable/index.html
+(Its Documentation 😅)
