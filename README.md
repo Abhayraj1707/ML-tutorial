@@ -1,2 +1,2 @@
 # ML-tutorial
- Learning Ml
+ Machine Learning tutorial with sutiable example
